@@ -4,6 +4,16 @@ discussions regarding random deep learning papers on Lab
 21st Feb 2019
 -----------------
 
+Deep Learning for Case-Based Reasoning through Prototypes: A Neural Network that Explains Its Predictions
+
+https://arxiv.org/pdf/1710.04806.pdf
+
+code : https://github.com/OscarcarLi/PrototypeDL
+
+- a method that can explain its predictions 
+
+- a very unique take on the deep learning neural based frameworks 
+
 26th Feb 2019
 -----------------
 
