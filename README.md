@@ -35,3 +35,20 @@ with a simple normal distribution and during inferencing we are sampling from N(
 meaning that how does sampling from N(0,1) inherit the encoding properties of the encoder Q(z|x) ?
 
 also understood how the different losses behave and why it is a lower bound.
+
+
+28th Feb 2019
+-----------------
+
+by Titir - Memorization Precedes Generation: Learning Unsupervised GANs with Memory Networks
+
+https://openreview.net/forum?id=rkO3uTkAZ
+
+https://github.com/whyjay/memoryGAN
+
+- a very interesting paper with a memory module consisting of keys, values , age of memory module and frequency of occurance of memory modules 
+
+- a new distribution VMF to measure the distance between the keys and the generated data
+
+- discussions regarding the bayes rule are provided in the open review 
+
