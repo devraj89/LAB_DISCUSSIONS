@@ -55,3 +55,16 @@ https://github.com/whyjay/memoryGAN
 
 - discussions regarding the bayes rule are provided in the open review 
 
+by Supritam - Adversarial Metric Learning
+-----------------------------------------------------------------------------------------------------------------------
+
+https://www.ijcai.org/proceedings/2018/0279.pdf
+
+- the metric is supposed to know how to make the positive pair distance small and the negative pair distance bigger 
+
+- generate pairs of sample (both pos and negative) which are wrongly classified by the metric
+
+- train the gen and metric in an adversarial fashion 
+
+
+
