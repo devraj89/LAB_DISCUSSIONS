@@ -5,6 +5,7 @@ discussions regarding random deep learning papers on Lab
 -----------------
 
 Deep Learning for Case-Based Reasoning through Prototypes: A Neural Network that Explains Its Predictions
+-----------------------------------------------------------------------------------------------------------------------
 
 https://arxiv.org/pdf/1710.04806.pdf
 
@@ -18,6 +19,7 @@ code : https://github.com/OscarcarLi/PrototypeDL
 -----------------
 
 Tutorial on VAE
+-----------------------------------------------------------------------------------------------------------------------
 
 Let me first read it up from different blogs so that I must first understand it
 
@@ -41,6 +43,7 @@ also understood how the different losses behave and why it is a lower bound.
 -----------------
 
 by Titir - Memorization Precedes Generation: Learning Unsupervised GANs with Memory Networks
+-----------------------------------------------------------------------------------------------------------------------
 
 https://openreview.net/forum?id=rkO3uTkAZ
 
