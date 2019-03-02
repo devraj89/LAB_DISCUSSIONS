@@ -67,4 +67,24 @@ https://www.ijcai.org/proceedings/2018/0279.pdf
 - train the gen and metric in an adversarial fashion 
 
 
+5th March 2019
+-----------------
 
+Good Semi-Supervised Learning That Requires a Bad GAN
+--------------------------------------------------------------------
+
+https://arxiv.org/abs/1705.09783
+
+https://github.com/kimiyoung/ssl_bad_gan
+
+InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets
+--------------------------------------------------------------------
+
+https://papers.nips.cc/paper/6399-infogan-interpretable-representation-learning-by-information-maximizing-generative-adversarial-nets.pdf
+
+https://github.com/pianomania/infoGAN-pytorch
+
+What is a teacher student model in a Convolutional neural network?
+--------------------------------------------------------------------
+
+need to list down the references for this later 
