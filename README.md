@@ -80,9 +80,12 @@ https://github.com/kimiyoung/ssl_bad_gan
 InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets
 --------------------------------------------------------------------
 
-https://papers.nips.cc/paper/6399-infogan-interpretable-representation-learning-by-information-maximizing-generative-adversarial-nets.pdf
+https://arxiv.org/pdf/1606.03657.pdf
 
 https://github.com/pianomania/infoGAN-pytorch
+
+I have understood all the derivations. Some helpful hints are here:
+
 
 What is a teacher student model in a Convolutional neural network?
 --------------------------------------------------------------------
