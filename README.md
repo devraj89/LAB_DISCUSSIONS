@@ -70,13 +70,6 @@ https://www.ijcai.org/proceedings/2018/0279.pdf
 5th March 2019
 -----------------
 
-Good Semi-Supervised Learning That Requires a Bad GAN
---------------------------------------------------------------------
-
-https://arxiv.org/abs/1705.09783
-
-https://github.com/kimiyoung/ssl_bad_gan
-
 InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets
 --------------------------------------------------------------------
 
@@ -97,7 +90,22 @@ https://arxiv.org/abs/1703.05192
 
 https://github.com/carpedm20/DiscoGAN-pytorch
 
+
+
+
+8th March 2019
+-----------------
+
+Good Semi-Supervised Learning That Requires a Bad GAN
+--------------------------------------------------------------------
+
+https://arxiv.org/abs/1705.09783
+
+https://github.com/kimiyoung/ssl_bad_gan
+
 What is a teacher student model in a Convolutional neural network?
 --------------------------------------------------------------------
 
 need to list down the references for this later 
+
+
