@@ -82,7 +82,11 @@ InfoGAN: Interpretable Representation Learning by Information Maximizing Generat
 
 https://arxiv.org/pdf/1606.03657.pdf
 
+https://wiseodd.github.io/techblog/2017/01/29/infogan/ -- some more explanations
+
 https://github.com/pianomania/infoGAN-pytorch
+
+https://github.com/eriklindernoren/PyTorch-GAN#infogan
 
 I have understood all the derivations. Some helpful hints are here:
 
