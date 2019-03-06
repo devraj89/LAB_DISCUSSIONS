@@ -90,6 +90,12 @@ https://github.com/eriklindernoren/PyTorch-GAN#infogan
 
 I have understood all the derivations. Some helpful hints are here:
 
+Learning to Discover Cross-Domain Relations with Generative Adversarial Networks
+--------------------------------------------------------------------
+
+https://arxiv.org/abs/1703.05192
+
+https://github.com/carpedm20/DiscoGAN-pytorch
 
 What is a teacher student model in a Convolutional neural network?
 --------------------------------------------------------------------
